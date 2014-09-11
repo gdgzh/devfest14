@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Zürich", description: "GDG Zürich", link: "https://plus.google.com/+GDGZHCH/posts", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Zürich", description: "GDG Zürich", link: "https://plus.google.com/+GDGZHCH", imageUrl: "gdg-lviv.svg"}
 - 
   group: "Co-organizers"
   elements: 
