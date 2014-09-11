@@ -1,17 +1,17 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
+  name: "Martin"
+  surname: "Liersch"
+  title: "Website"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+MartinLiersch"}
+    - {name: "twitter", link: "https://twitter.com/goddchen"}
+    - {name: "github", link: "https://github.com/Goddchen"}
+    - {name: "site", link: "http://blog.goddchen.de"}
 - 
   id: 1
   name: "Oleh"
