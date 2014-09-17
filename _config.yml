@@ -174,12 +174,11 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@devfest.ch", text: "info@devfest.ch"}
  -
   title: "FAQ"
   links:
@@ -188,7 +187,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "devfestua"
+discusShortName: "devfestch"
 
 # Speakers List Block
 showSessions: true
