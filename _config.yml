@@ -30,7 +30,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://docs.google.com/forms/d/1Y9-_IA-E7IOKR7JEMwCVOIxQGXkXH5p4BMdPGAxfZOg/viewform"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -44,9 +44,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1Y9-_IA-E7IOKR7JEMwCVOIxQGXkXH5p4BMdPGAxfZOg/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1Y9-_IA-E7IOKR7JEMwCVOIxQGXkXH5p4BMdPGAxfZOg/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "November 22nd, 2014"
 typeoutTextValues: '"Zürich"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1Y9-_IA-E7IOKR7JEMwCVOIxQGXkXH5p4BMdPGAxfZOg/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
