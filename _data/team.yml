@@ -12,31 +12,64 @@
     - {name: "twitter", link: "https://twitter.com/goddchen"}
     - {name: "github", link: "https://github.com/Goddchen"}
     - {name: "site", link: "http://blog.goddchen.de"}
-# - 
-  # id: 1
-  # name: "Oleh"
-  # surname: "Zasadnyy"
-  # title: "Designer and Web Developer"
-  # thumbnailUrl: OlehZasadnyy.jpg
-  # team: true
-  # ribbon: 
-    # - {abbr: "GDG", title: "Google Developer Group"}
-  # social: 
-    # - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    # - {name: "github", link: "https://github.com/ozasadnyy"}
-# - 
-  # id: 2
-  # name: "Ostap"
-  # surname: "Andrusiv"
-  # title: "Sponsors and Speakers Manager"
-  # thumbnailUrl: OstapAndrusiv.jpg
-  # team: true
-  # ribbon: 
-    # - {abbr: "GDG", title: "Google Developer Group"}
-  # social: 
-    # - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    # - {name: "twitter", link: "https://twitter.com/p1f"}
-    # - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 1
+  name: "Lorica"
+  surname: "Claesson"
+  title: "Android Developer"
+  thumbnailUrl: Lorica.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+LoricaClaesson"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/lorica"}
+    - {name: "site", link: "http://nordicusability.com"}
+- 
+  id: 2
+  name: "Vadim"
+  surname: "Bauer"
+  title: "Nerd and coding freak"
+  thumbnailUrl: Vadim.Bauer.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+VadimBauer"}
+- 
+  id: 3
+  name: "Michel"
+  surname: "Racic"
+  title: "Coding and technology freak"
+  thumbnailUrl: racic.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MichelRacic"}
+- 
+  id: 4
+  name: "Corsin"
+  surname: "Camichel"
+  title: "Gadget lover, friendly nerd"
+  thumbnailUrl: Corsin.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CorsinCamichel"}
+- 
+  id: 5
+  name: "Robert"
+  surname: "Jacob"
+  title: "GDG Bodensee"
+  thumbnailUrl: roberjacob.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RobertJacob"}
 # - 
   # id: 4
   # name: "Dmytro"
