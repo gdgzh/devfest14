@@ -64,7 +64,7 @@
   name: "Robert"
   surname: "Jacob"
   title: "GDG Organizer"
-  thumbnailUrl: robert-jacob.jpg
+  thumbnailUrl: robertjacob.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
