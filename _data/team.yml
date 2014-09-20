@@ -63,13 +63,16 @@
   id: 5
   name: "Robert"
   surname: "Jacob"
-  title: "GDG Bodensee"
-  thumbnailUrl: robertjacob.jpg
+  title: "GDG Organizer"
+  thumbnailUrl: robert-jacob.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RobertJacob"}
+    - {name: "google-plus", link: "https://google.com/+RobertJacob"}
+    - {name: "twitter", link: "https://twitter.com/xperimental"}
+    - {name: "github", link: "https://github.com/xperimental"}
+    - {name: "site", link: "http://sourcewalker.net/"}
 # - 
   # id: 4
   # name: "Dmytro"
