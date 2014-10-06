@@ -31,7 +31,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/1Y9-_IA-E7IOKR7JEMwCVOIxQGXkXH5p4BMdPGAxfZOg/viewform"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/CallforSponsors.pdf"
 
 
 # Navigation
@@ -166,9 +166,9 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+GDGZHCH", icon: "google-plus"}
+ - {link: "https://twitter.com/GDGZH", icon: "twitter"}
+ - {link: "https://www.facebook.com/GDGZH", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
