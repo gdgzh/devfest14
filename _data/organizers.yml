@@ -5,6 +5,6 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GTUG Lake Constance", description: "GTUG Lake Constance", link: "https://plus.google.com/102863795915305230399", imageUrl: "gdg-bodensee.png"}
+    - {name: "GDG Bodensee", description: "GDG Bodensee", link: "https://plus.google.com/102863795915305230399", imageUrl: "gdg-bodensee.png"}
     # - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
     # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
