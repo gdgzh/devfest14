@@ -1,10 +1,10 @@
 ﻿- 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Zürich", description: "GDG Zürich", link: "https://plus.google.com/+GDGZHCH", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Zürich", description: "GDG Zürich", link: "https://plus.google.com/+GDGZHCH", imageUrl: "gdg-zurich.png"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GTUG Lake Constance", description: "GTUG Lake Constance", link: "https://plus.google.com/102863795915305230399", imageUrl: "gdg-kyiv.svg"}
+    - {name: "GTUG Lake Constance", description: "GTUG Lake Constance", link: "https://plus.google.com/102863795915305230399", imageUrl: "gdg-bodensee.png"}
     # - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
     # - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
