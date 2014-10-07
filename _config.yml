@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG Zürich DevFest 2014"
-email: "info@devfest.ch"
+email: "devfest@gdgzh.ch"
 description: "GDG Zürich DevFest 2014"
 baseurl: ""
 url: "http://14.devfest.ch"
@@ -18,7 +18,7 @@ googleAnalyticsSiteUrl: ""
 organizerName: "GDG Zürich"
 organizerAlternateName: "Google Developer Group Zürich"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "info@devfest.ch"
+organizerEmail: "devfest@gdgzh.ch"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/+GDGZHCH"
 
