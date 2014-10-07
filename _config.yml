@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG Zürich DevFest 2014"
 email: "info@devfest.ch"
 description: "GDG Zürich DevFest 2014"
-baseurl: "/"
+baseurl: ""
 url: "http://14.devfest.ch"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
